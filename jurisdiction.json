@@ -1,0 +1,11 @@
+{
+  "path": "ru-kam",
+  "code": "RU-KAM",
+  "name": "Kamchatka Krai",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-kamchatka-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}

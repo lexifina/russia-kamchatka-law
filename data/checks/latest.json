@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:16:29Z",
+ "generated": "2026-11-27T06:08:59Z",
  "latest": {
   "pravo-kamchatka|russia/kamchatka/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1622,
     "source_in_scope": 1622
    },
-   "check_id": "ru-pravo-kamchatka-20261126T052911Z",
+   "check_id": "ru-pravo-kamchatka-20261127T052444Z",
    "commits": null,
    "corpus": "russia/kamchatka/acts",
    "error": null,
-   "finished": "2026-11-26T05:29:54Z",
+   "finished": "2026-11-27T05:25:23Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region41: 1622 law-type documents listed (every page read); 1622 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1622 law-type documents in block region41; newest published 2026-10-01",
    "source": "pravo-kamchatka",
-   "started": "2026-11-26T05:29:11Z",
+   "started": "2026-11-27T05:24:44Z",
    "unexplained": 0,
    "update": {
     "parts": []

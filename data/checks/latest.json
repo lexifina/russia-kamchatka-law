@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:08:59Z",
+ "generated": "2026-11-28T06:23:19Z",
  "latest": {
   "pravo-kamchatka|russia/kamchatka/acts": {
    "attempt": 1,
@@ -12,26 +12,32 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1622,
+    "checked": 1623,
     "current": 1622,
     "gone": 0,
     "held": 1622,
     "newest_in_repo": "2026-10-01",
-    "pending": 0,
+    "pending": 1,
     "repo": 1622,
-    "source_in_scope": 1622
+    "source_in_scope": 1623
    },
-   "check_id": "ru-pravo-kamchatka-20261127T052444Z",
-   "commits": null,
+   "check_id": "ru-pravo-kamchatka-20261128T053332Z",
+   "commits": {
+    "count": 2,
+    "from": "f84ec245023d6eddff0da9916cf577dc5adef588",
+    "to": "aa0d31359deb33657df99ea44948da7e3d03c9fe"
+   },
    "corpus": "russia/kamchatka/acts",
    "error": null,
-   "finished": "2026-11-27T05:25:23Z",
+   "finished": "2026-11-28T05:34:23Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region41: 1622 law-type documents listed (every page read); 1622 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region41: 1623 law-type documents listed (every page read); 1622 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "4100202611270004"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +45,28 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "4100202611270004"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1622 law-type documents in block region41; newest published 2026-10-01",
+   "snapshot": "1623 law-type documents in block region41; newest published 2026-11-27",
    "source": "pravo-kamchatka",
-   "started": "2026-11-27T05:24:44Z",
+   "started": "2026-11-28T05:33:32Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261128-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +75,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 249,
+    "versions_checked": 250,
     "versions_differ": 0
    }
   }

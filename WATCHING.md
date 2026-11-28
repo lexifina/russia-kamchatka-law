@@ -6,6 +6,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Kamchatka Krai: Official Internet Portal of Legal Information (region41)](http://publication.pravo.gov.ru/documents/block/region41) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-27 05:24 UTC | watched |
+| [Kamchatka Krai: Official Internet Portal of Legal Information (region41)](http://publication.pravo.gov.ru/documents/block/region41) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-28 05:33 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

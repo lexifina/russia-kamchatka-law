@@ -1,10 +1,11 @@
 # Kamchatka Krai: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 12 versions, from 2026-02-03 (latest in force: 2026-10-01) · <http://publication.pravo.gov.ru/documents/block/region41>
+Законы 2026 · 13 versions, from 2026-02-03 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region41>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Закон № 1 | [1.md](1.md) | 1 | 2026-10-01 |
+| Закон № 2 | [2.md](2.md) | 1 | 2026-11-27 |
 | Закон № 555 | [555.md](555.md) | 0 |  |
 | Закон № 556 | [556.md](556.md) | 0 |  |
 | Закон № 557 | [557.md](557.md) | 0 |  |

@@ -1,0 +1,17 @@
+{
+ "corpus": "ru/kamchatka/acts",
+ "path": "russia/kamchatka/acts",
+ "scope": "selected-acts",
+ "acts": 13,
+ "future_branch": "future",
+ "publisher": "Официальный интернет-портал правовой информации (publication.pravo.gov.ru)",
+ "name": "Kamchatka Krai",
+ "language": "ru",
+ "coverage": "13 acts of Kamchatka Krai with every dated version the source gives (250 versions), in force from 2014-11-14 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "2014-11-14",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-28",
+ "record_note": "Texts from Официальный интернет-портал правовой информации (publication.pravo.gov.ru).",
+ "in_force_trailer": "In-force"
+}
